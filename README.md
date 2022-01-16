@@ -1,17 +1,16 @@
-# surfs_up
-
-Surfs Up
+# Surfs_up Analysis
 
 ## Overview of Analysis
 Thus far, W. Avy likes our analysis, but he wants more information about temperature trends before opening the surf shop. Specifically, he wants temperature data for the months of June and December in Oahu, in order to determine if the surf and ice cream shop business is sustainable year-round. In this report, we will present our weather analysis to show temperature trends during summer and winter months.
 
 ## Results
+
 From annual temperature data, results are extracted for the months of June and December
 
 !["June_Temperatures"](06_June_Temperatures.png)
 !["December_Temperatures"](12_December_Temperatures.png)
 
-## Temperature Statistics
+## Temperature Statistics and Analysis
 
 - June avg temp - 74.9°F / December avg temp - 71.0°F
 - Similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year round
@@ -29,12 +28,17 @@ As seen in figures below for temperature and precipitation. As Hawaii has temp s
 - Mean temperature/precipitation for all the years from 2010 to 2017 is almost same for both December and June.
 - Maximum temperature is for both month of December and June is between 70-75 degrees.
 
-## Analysis
+!["June_Precipitation"](06_June_Precipitation.png)
+!["December_Precipitation"](12_December_Precipitation.png)
+
+## Precipitation Statistics and Analysis
+
 It is clear that there are seasonal differences of rainfall between months.
 Also worth to note that 3rd quartile stats of both months show similarity of .12 and .15 inches.
 So in summary of the 2 months, most rainfall amount are similar, but on extreme days there are notable differences in the amount of rain as well.
 
 ## Summary
+
 By looking at the results, opening a surf shop seems like a smart investment. The average temperature in two extreme months of the year (June and December) seem similar. For most months of the year, the temperature will be good for surfing and thus, for a surf shop.
 
 To dive a little deeper, we looked at the percipitation levels through the two months as well. The major takeaways from this analysis are:
