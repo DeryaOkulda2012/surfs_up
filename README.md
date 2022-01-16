@@ -7,10 +7,13 @@ Thus far, W. Avy likes our analysis, but he wants more information about tempera
 
 From annual temperature data, results are extracted for the months of June and December
 
+## Temperature Statistics and Analysis
+
 !["June_Temperatures"](06_June_Temperatures.png)
 !["December_Temperatures"](12_December_Temperatures.png)
 
-## Temperature Statistics and Analysis
+!["June_Temp_Stats"](06_June_Temp_Stats.png)
+!["December_Temp_Stats"](12_December_Temp_Stats.png)
 
 - June avg temp - 74.9°F / December avg temp - 71.0°F
 - Similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year round
@@ -28,10 +31,13 @@ As seen in figures below for temperature and precipitation. As Hawaii has temp s
 - Mean temperature/precipitation for all the years from 2010 to 2017 is almost same for both December and June.
 - Maximum temperature is for both month of December and June is between 70-75 degrees.
 
+## Precipitation Statistics and Analysis
+
 !["June_Precipitation"](06_June_Precipitations.png)
 !["December_Precipitation"](12_December_Precipitations.png)
 
-## Precipitation Statistics and Analysis
+!["June_Precip_Stats"](06_June_Precip_Stats.png)
+!["December_Precip_Stats"](12_December_Precip_Stats.png)
 
 It is clear that there are seasonal differences of rainfall between months.
 Also worth to note that 3rd quartile stats of both months show similarity of .12 and .15 inches.
