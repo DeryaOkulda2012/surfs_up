@@ -18,15 +18,11 @@ From annual temperature data, results are extracted for the months of June and D
 - June avg temp - 74.9°F / December avg temp - 71.0°F
 - Similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year round
 
+- June (75th percentile) - 77°F / December (75th percentile) - 74°F
+- 75 percent of the time the temperature is in the mid to upper 70's, regardless of whether it is June or December.
+
 - June min temp - 64.0°F / December min temp - 56.0°F
 - June's lows still provide good surfing and ice cream weather as December's lows could show less opportunities for both surfing and ice cream
-
-- June 75th percentile - 77°F / December 75th percentile - 74°F
-- Indicates 75% of the time the temperature is in the middle to upper 70's
-
-## Analysis
-
-As seen in figures below for temperature and precipitation. As Hawaii has temp same whole year so its hard to point out difference Number of data points are more in June than December.
 
 - Mean temperature/precipitation for all the years from 2010 to 2017 is almost same for both December and June.
 - Maximum temperature is for both month of December and June is between 70-75 degrees.
