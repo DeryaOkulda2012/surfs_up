@@ -7,7 +7,7 @@ Thus far, W. Avy likes our analysis, but he wants more information about tempera
 
 From annual temperature data, results are extracted for the months of June and December
 
-!(06_June_Temperatures.png)
+!["June_Temperatures"](06_June_Temperatures.png)
 !["December_Temperatures"](12_December_Temperatures.png)
 
 ## Temperature Statistics and Analysis
