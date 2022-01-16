@@ -5,7 +5,7 @@ Thus far, W. Avy likes our analysis, but he wants more information about tempera
 
 ## Results
 
-From annual temperature data, results are extracted for the months of June and December
+From annual temperature and precipitation data, results are extracted for the months of June and December
 
 ## Temperature Statistics and Analysis
 
