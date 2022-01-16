@@ -29,7 +29,7 @@ As seen in figures below for temperature and precipitation. As Hawaii has temp s
 - Maximum temperature is for both month of December and June is between 70-75 degrees.
 
 !["June_Precipitation"](06_June_Precipitations.png)
-!["December_Precipitation"](12_December_Precipitationssssssssssssssssssssssssssssssss.png)
+!["December_Precipitation"](12_December_Precipitations.png)
 
 ## Precipitation Statistics and Analysis
 
