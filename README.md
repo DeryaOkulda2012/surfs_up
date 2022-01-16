@@ -55,7 +55,7 @@ To dive a little deeper, we looked at the percipitation levels through the two m
 Additional analysis could help solidify the business case. Possible queries include:
 
 - Query to view relationship of temperatures to precipitation during June and December.
-- Query to view average temperatures and precipitation levels at different parts of Hawaii or Oahu. This could help narrow down the optimal location for the shop
+- Query to view average temperatures and precipitation levels at different parts of Hawaii or Oahu. This could narrow down the optimal location for the shop.
 - Examine all the months and outliers in precipitation, as these can indicate severe weather events.
 
 ## Assumptions
