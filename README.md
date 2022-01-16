@@ -28,8 +28,8 @@ As seen in figures below for temperature and precipitation. As Hawaii has temp s
 - Mean temperature/precipitation for all the years from 2010 to 2017 is almost same for both December and June.
 - Maximum temperature is for both month of December and June is between 70-75 degrees.
 
-!["June_Precipitation"](06_June_Precipitation.png)
-!["December_Precipitation"](12_December_Precipitation.png)
+!["June_Precipitation"](06_June_Precipitations.png)
+!["December_Precipitation"](12_December_Precipitationssssssssssssssssssssssssssssssss.png)
 
 ## Precipitation Statistics and Analysis
 
