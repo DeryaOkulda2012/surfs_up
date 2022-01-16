@@ -32,24 +32,22 @@ From annual temperature and precipitation data, results are extracted for the mo
 !["June_Precip_Stats"](06_June_Precip_Stats.png)
 !["December_Precip_Stats"](12_December_Precip_Stats.png)
 
-- The average percipitation is 0.136 inches per day in June
-- The average percipitation is 0.217 inches per day in December
-- 50% of days in June have less than 0.02 inches of percipitation and 75% have less than 0.12 inches of percipitation
-- 50% of days in December have less than 0.02 inches of percipitation and 75% have less than 0.12 inches of percipitation
-- The maximum percipitation is 4.43 inches on a single day in June
-- The maximum percipitation is 6.42 inches on a single day in December
+- The average percipitation in June is 0.136 inches per day
+- The average percipitation in December is 0.217 inches per day
+- 50 percent of days in June have less than 0.02 inches of percipitation and 75% have less than 0.12 inches of percipitation
+- 50 percent of days in December have less than 0.03 inches of percipitation and 75% have less than 0.15 inches of percipitation
+- The maximum percipitation in June is 4.43 inches on a single day
+- The maximum percipitation in December is 6.42 inches on a single day
 
 There are marginal seasonal differences in rainfall between the months of June and December.
-Third quartile stats of both months show similarity of .12 and .15 inches.
-In summary, for the 2 months of June and December most rainfall amount are similar, but on extreme days there are notable differences in the amount of rain as well.
+Third quartile statistics for both months show similarity of .12 and .15 inches.
+In summary, for the 2 months of June and December most rainfall amount are similar, but on extreme days there are notable differences in the amount of rain as well with December months seeing more rain than June months.
 
 ## Summary
 
-By looking at the results, opening a surf shop seems like a smart investment. The average temperature in two extreme months of the year (June and December) seem quite similar. For most months of the year, the temperature will be good for surfing, and for having a surf shop.
+By looking at these results, opening a surf shop seems like a smart investment. The average temperature in two extreme months of the year (June and December) seem quite similar. For most months of the year, the temperature will be good for surfing, and for having a surf shop.
 
-To dive a little deeper, we looked at the percipitation levels through the two months as well. The major takeaways from this analysis are:
-
-## Limitation of Analysis and Recommendation
+## Limitation of Data and Recommendations
 
 Additional analysis could help solidify the business case. Possible queries include:
 
