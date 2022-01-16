@@ -8,6 +8,8 @@ Thus far, W. Avy likes our analysis, but he wants more information about tempera
 ## Results
 From annual temperature data, results are extracted for the months of June and December
 
+!["06_June_Temperatures"](https://https://github.com/DeryaOkulda2012/surfs_up/june_prcp.png)
+
 ## Temperature Statistics
 
 June avg temp - 74.9°F / December avg temp - 71.0°F
