@@ -13,21 +13,21 @@ From annual temperature data, results are extracted for the months of June and D
 
 ## Temperature Statistics
 
-June avg temp - 74.9°F / December avg temp - 71.0°F
-Similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year round
+- June avg temp - 74.9°F / December avg temp - 71.0°F
+- Similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year round
 
-June min temp - 64.0°F / December min temp - 56.0°F
-June's lows still provide good surfing and ice cream weather as December's lows could show less opportunities for both surfing and ice cream
+- June min temp - 64.0°F / December min temp - 56.0°F
+- June's lows still provide good surfing and ice cream weather as December's lows could show less opportunities for both surfing and ice cream
 
-June 75th percentile - 77°F / December 75th percentile - 74°F
-Indicates 75% of the time the temperature is in the middle to upper 70's
+- June 75th percentile - 77°F / December 75th percentile - 74°F
+- Indicates 75% of the time the temperature is in the middle to upper 70's
 
 ## Analysis
+
 As seen in figures below for temperature and precipitation. As Hawaii has temp same whole year so its hard to point out difference Number of data points are more in June than December.
 
-Mean temperature/precipitaition for all the years from 2010 to 2017 is almost same for both December and June.
-
-Maximum temperature is for both month of December and June is between 70-75 degrees.
+- Mean temperature/precipitation for all the years from 2010 to 2017 is almost same for both December and June.
+- Maximum temperature is for both month of December and June is between 70-75 degrees.
 
 ## Analysis
 It is clear that there are seasonal differences of rainfall between months.
@@ -38,12 +38,13 @@ So in summary of the 2 months, most rainfall amount are similar, but on extreme 
 By looking at the results, opening a surf shop seems like a smart investment. The average temperature in two extreme months of the year (June and December) seem similar. For most months of the year, the temperature will be good for surfing and thus, for a surf shop.
 
 To dive a little deeper, we looked at the percipitation levels through the two months as well. The major takeaways from this analysis are:
-The average percipitation is 0.136 inches per day in June
-The average percipitation is 0.217 inches per day in December
-50% of days in June have less than 0.02 inches of percipitation and 75% have less than 0.12 inches of percipitation
-50% of days in December have less than 0.02 inches of percipitation and 75% have less than 0.12 inches of percipitation
-The maximum percipitation is 4.43 inches on a single day in June
-The maximum percipitation is 6.42 inches on a single day in December
+
+- The average percipitation is 0.136 inches per day in June
+- The average percipitation is 0.217 inches per day in December
+- 50% of days in June have less than 0.02 inches of percipitation and 75% have less than 0.12 inches of percipitation
+- 50% of days in December have less than 0.02 inches of percipitation and 75% have less than 0.12 inches of percipitation
+- The maximum percipitation is 4.43 inches on a single day in June
+- The maximum percipitation is 6.42 inches on a single day in December
 
 
 ## Summary
