@@ -15,17 +15,14 @@ From annual temperature data, results are extracted for the months of June and D
 !["June_Temp_Stats"](06_June_Temp_Stats.png)
 !["December_Temp_Stats"](12_December_Temp_Stats.png)
 
-- June avg temp - 74.9°F / December avg temp - 71.0°F
+- June average temperature: 74.9°F / December average temp: 71.0°F
+- June (75th percentile): 77°F / December (75th percentile): 74°F
+- 75 percent of the time the temperature is in the mid to upper 70's, regardless of whether it is June or December.
 - Similar averages indicate the temperatures in Oahu stay relatively steady in the 70's year round
 
-- June (75th percentile) - 77°F / December (75th percentile) - 74°F
-- 75 percent of the time the temperature is in the mid to upper 70's, regardless of whether it is June or December.
-
-- June min temp - 64.0°F / December min temp - 56.0°F
-- June's lows still provide good surfing and ice cream weather as December's lows could show less opportunities for both surfing and ice cream
-
-- Mean temperature/precipitation for all the years from 2010 to 2017 is almost same for both December and June.
 - Maximum temperature is for both month of December and June is between 70-75 degrees.
+- June min temp - 64.0°F / December min temp - 56.0°F
+- June's lows provide good surfing and ice cream weather, whereas December's lows could show less opportunities for both surfing and ice cream
 
 ## Precipitation Statistics and Analysis
 
@@ -35,15 +32,6 @@ From annual temperature data, results are extracted for the months of June and D
 !["June_Precip_Stats"](06_June_Precip_Stats.png)
 !["December_Precip_Stats"](12_December_Precip_Stats.png)
 
-It is clear that there are seasonal differences of rainfall between months.
-Also worth to note that 3rd quartile stats of both months show similarity of .12 and .15 inches.
-So in summary of the 2 months, most rainfall amount are similar, but on extreme days there are notable differences in the amount of rain as well.
-
-## Summary
-
-By looking at the results, opening a surf shop seems like a smart investment. The average temperature in two extreme months of the year (June and December) seem similar. For most months of the year, the temperature will be good for surfing and thus, for a surf shop.
-
-To dive a little deeper, we looked at the percipitation levels through the two months as well. The major takeaways from this analysis are:
 
 - The average percipitation is 0.136 inches per day in June
 - The average percipitation is 0.217 inches per day in December
@@ -52,20 +40,25 @@ To dive a little deeper, we looked at the percipitation levels through the two m
 - The maximum percipitation is 4.43 inches on a single day in June
 - The maximum percipitation is 6.42 inches on a single day in December
 
+There are marginal seasonal differences in rainfall between the months of June and December.
+Third quartile stats of both months show similarity of .12 and .15 inches.
+In summary, for the 2 months of June and December most rainfall amount are similar, but on extreme days there are notable differences in the amount of rain as well.
 
 ## Summary
-Additional analysis could help solidify the business case.
 
-Query to view precipitation statistics during June and December
-This would show the relationship between temperatures and precipitation
+By looking at the results, opening a surf shop seems like a smart investment. The average temperature in two extreme months of the year (June and December) seem quite similar. For most months of the year, the temperature will be good for surfing, and for having a surf shop.
 
-Query to view average temperatures and precipitation levels at different stations
-This could help narrow down the optimal location for the shop
-
+To dive a little deeper, we looked at the percipitation levels through the two months as well. The major takeaways from this analysis are:
 
 ## Limitation of Analysis and Recommendation
-The data is trusted as is, and is assumed to be accurate.
-Time of day when rain occurs is not available, only daily rain totals.
-I recommend we obtain further data on hours of rain occurrence, then filter and understand rain pattern during business hours.
-Additionally, with the existing data set, we can start on examining how many consecutive rainy days break down month by month. The result may help decide if certain months the business should simply close and let us take a break or vacation.
-Lastly, we should examine all the months and its outliers in rainfall, as these can be indicative of severe weather events.
+
+Additional analysis could help solidify the business case. Possible queries include:
+
+- Query to view relationship of temperatures to precipitation during June and December.
+- Query to view average temperatures and precipitation levels at different parts of Hawaii or Oahu. This could help narrow down the optimal location for the shop
+- Examine all the months and outliers in precipitation, as these can indicate severe weather events.
+
+## Assumptions
+
+- The data is trusted as is, and is assumed to be accurate.
+- Time of day when rain occurs is not available, only daily rain totals.
