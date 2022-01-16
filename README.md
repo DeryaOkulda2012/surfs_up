@@ -58,4 +58,4 @@ Additional analysis could help solidify the business case. Possible queries incl
 ## Assumptions
 
 - The data is trusted as is, and is assumed to be accurate.
-- Time of day when rain occurs is not available, only daily rain totals.
+- Time of day when temperature or precipitation is not available, only daily totals.
